@@ -1,3 +1,5 @@
+Pokedex that shows a image and the name of the pokemon according to the actions of the user
+
 Access link: https://alanaug.github.io/pokedex/
 
 RESOURCES USED: HTML, CSS, and JS to consume the Pokémon API for displaying images and names of Pokémon.
